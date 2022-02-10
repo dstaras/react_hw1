@@ -1,0 +1,20 @@
+.status {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  background-color: green;
+  border-radius: 50%;
+}
+.statusFolse {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
+.name {
+  color: red;
+}
+.item {
+  list-style: none;
+}
